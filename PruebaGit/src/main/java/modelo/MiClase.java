@@ -7,7 +7,14 @@ public class MiClase implements Miinterfaz{
 	@Override
 	public int metododevuelveentero() {
 		// TODO Auto-generated method stub
-		return 0;
+		
+		
+		int mientero=5;
+		int otroEntero = mientero-3;
+		int resultado = otroEntero;
+		
+		
+		return resultado;
 	}
 
 }
