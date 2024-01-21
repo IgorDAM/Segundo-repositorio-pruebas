@@ -6,7 +6,7 @@ public class MiClase implements MiInterfaz{
 
 	@Override
 	public int metododevuelveentero() {
-		// TODO Auto-generated method stub
+		// No se pudo hacer todo el metdo
 		return 0;
 	}
 
