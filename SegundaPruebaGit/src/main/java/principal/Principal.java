@@ -10,6 +10,7 @@ public class Principal {
 		System.out.println("Sigo con el prog dificil");
 		System.out.println("Añado funcionalidades");
 		System.out.println("Estoy muy contento con el programa");
+		System.out.println("Version para github");
 	}
 
 }
