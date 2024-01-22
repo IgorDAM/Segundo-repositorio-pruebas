@@ -6,6 +6,7 @@ public class MiClase implements MiInterfaz{
 
 	@Override
 	public int metododevuelveentero() {
+
 		int mientero= 5;
 		int otroentero=mientero-3;
 		int resultado=otroentero;
@@ -14,6 +15,7 @@ public class MiClase implements MiInterfaz{
 		
 		
 		
+		// No se pudo hacer todo el metdo
 	}
 
 }
