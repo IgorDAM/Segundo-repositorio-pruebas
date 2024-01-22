@@ -13,6 +13,7 @@ public class Principal {
 		System.out.println("Version para github");
 		System.out.println("Version nueva desde github");
 		System.out.println("Version nueva desde github");
+		System.out.println("Trabajo en equipo");
 	}
 
 }
